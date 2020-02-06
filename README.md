@@ -9,3 +9,10 @@ This repository contains all of the notes taken by [Mariana](https://github.com/
   * [Day 1](/Week_1/Day_1)
 
   
+
+## Functions
+```js
+function () {}
+() => {}
+
+```
